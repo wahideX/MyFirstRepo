@@ -1,4 +1,4 @@
 Brief Introduction About Myself
 This is a brief introduction of myself. I am Wahide alx pathway learner. I am learnig how to become a software engeneer.
 
-This is my first repositor. I am learning how to use git and github
+This is my first repositor. I am learning how to use git and github.
